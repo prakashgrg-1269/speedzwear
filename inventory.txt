@@ -1,0 +1,4 @@
+Kai 2,Nike,100,599,international
+caliber,cali,100,299,domestic
+boot,timberland,100,400.0,international
+
